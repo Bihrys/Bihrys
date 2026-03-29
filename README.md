@@ -38,17 +38,19 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake-dark.svg?cache=1774767094132"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake.svg?cache=1774767094132"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake.svg?cache=1774767094132"
   />
 </picture>
+
+因为 GitHub 的 raw CDN 会对这些 SVG 进行强缓存，刷新后仍然看到旧图时可以运行 `npm run bump:snake-cache` 把 README 中的 `?cache=` 参数戳成新的值，然后提交并 push，就能强制浏览器去拉最新的动画。
 
 ---
 
@@ -61,7 +63,5 @@
 ## 📫 Contact
 
 如果你也喜欢 Minecraft / 编程，欢迎一起交流 🤝
-
-
 
 
