@@ -50,7 +50,6 @@
   />
 </picture>
 
-因为 GitHub 的 raw CDN 会对这些 SVG 进行强缓存，刷新后仍然看到旧图时可以运行 `npm run bump:snake-cache` 把 README 中的 `?cache=` 参数戳成新的值，然后提交并 push，就能强制浏览器去拉最新的动画。
 
 ---
 
