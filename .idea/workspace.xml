@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32fe05de-56b6-4921-9a3c-5756bf7eba83" name="更改" comment="SY520" />
+    <list default="true" id="32fe05de-56b6-4921-9a3c-5756bf7eba83" name="更改" comment="SY520">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +151,31 @@
       <option name="project" value="LOCAL" />
       <updated>1773763242504</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="SY520">
+      <option name="closed" value="true" />
+      <created>1773846940165</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1773846940165</updated>
+    </task>
+    <task id="LOCAL-00011" summary="SY520">
+      <option name="closed" value="true" />
+      <created>1773847184617</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773847184617</updated>
+    </task>
+    <task id="LOCAL-00012" summary="SY520">
+      <option name="closed" value="true" />
+      <created>1773847853693</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1773847853693</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
