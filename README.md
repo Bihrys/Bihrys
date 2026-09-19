@@ -14,11 +14,11 @@
 > **Bihrys (Eric Bai)** · 高中生 · Java / C++ 开发者 · Minecraft 模组 & 插件开发者
 
 - 🎓 **一名高中生** — 课余时间基本都在敲代码
-- ☕ **主力语言** Java 与 C++，最近也在写 TypeScript 和 Python
-- 🧱 **Minecraft 开发** — 模组（Fabric）与插件，折腾各种有意思的玩法
+- ☕ **主力语言** Java 与 C++，偶尔写 TypeScript / Python
+- 🧱 **Minecraft 开发** — Fabric 模组与 Bukkit 插件，折腾各种有意思的玩法
 - 🐧 **Linux 折腾党** — 日常使用 Niri 等桌面环境，写过 [Niri 安装与配置笔记](https://bihrys.com/posts/niri-manual/)
-- 🖥️ **自建服务** — 博客跑在自己的香港服务器上，还有 AI 中转站等服务
-- 🧠 **正在折腾** — 用 NumPy 手写神经网络并做了可视化，见 [mnist-neural-net-visualizer](https://github.com/Bihrys/mnist-neural-net-visualizer)
+- 🖥️ **自建服务** — 博客跑在自己的香港服务器上，还有 AI 中转站
+- 🧠 **最近在玩** — 用 JavaScript 手写神经网络做 [MNIST 可视化](https://github.com/Bihrys/mnist-neural-net-visualizer)
 - ✨ 座右铭：*"不想学习"*（但还是每天都在学）
 
 ---
@@ -39,20 +39,27 @@
 
 <div align="center">
 
-<a href="https://bihrys.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bihrys&show_icons=true&theme=transparent&locale=cn&border_radius=16&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Bihrys&show_icons=true&theme=transparent&locale=cn&border_radius=16&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bihrys&show_icons=true&theme=transparent&locale=cn&border_radius=16&hide_border=true" alt="Bihrys's GitHub Stats" />
-  </picture>
+<a href="https://github.com/Bihrys?tab=repositories">
+  <img src="https://img.shields.io/github/followers/Bihrys?label=Followers&style=for-the-badge&color=a855f7&labelColor=1f2937" alt="Followers" />
 </a>
-<a href="https://bihrys.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bihrys&layout=compact&theme=transparent&locale=cn&border_radius=16&title_color=a855f7&text_color=e2e8f0&hide_border=true&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bihrys&layout=compact&theme=transparent&locale=cn&border_radius=16&title_color=7c3aed&text_color=374151&hide_border=true&langs_count=8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bihrys&layout=compact&theme=transparent&locale=cn&border_radius=16&hide_border=true&langs_count=8" alt="Top Languages" />
-  </picture>
+<a href="https://github.com/Bihrys?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Bihrys?affiliations=OWNER&label=Stars&style=for-the-badge&color=a855f7&labelColor=1f2937" alt="Stars" />
 </a>
+<a href="https://github.com/Bihrys?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBihrys&query=%24.public_repos&label=Repos&style=for-the-badge&color=a855f7&labelColor=1f2937" alt="Public Repos" />
+</a>
+<a href="https://github.com/Bihrys/bihrys-blog">
+  <img src="https://img.shields.io/github/commit-activity/y/Bihrys/bihrys-blog?label=Commits%2FYear&style=for-the-badge&color=a855f7&labelColor=1f2937" alt="Commit Activity" />
+</a>
+
+<br/><br/>
+
+<!-- 语言分布（按仓库统计） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bihrys&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bihrys&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bihrys&theme=github_dark" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -83,39 +90,16 @@
 
 ## 📌 Featured Projects | 精选项目
 
-<div align="center">
+| 项目 | 说明 |
+| :--- | :--- |
+| 🖥️ **[bihrys-blog](https://github.com/Bihrys/bihrys-blog)** | 个人博客 · Astro + Fuwari Enhanced，部署在自己的服务器上 |
+| 🧠 **[mnist-neural-net-visualizer](https://github.com/Bihrys/mnist-neural-net-visualizer)** | 手写神经网络 + MNIST 训练过程可视化 |
+| 🎮 **[mc-launcher](https://github.com/Bihrys/mc-launcher)** | Minecraft 启动器（QML） |
+| 🌳 **[TerrariaFabric](https://github.com/Bihrys/TerrariaFabric)** | 在 Fabric 上开发 Terraria 模组 |
+| 🪑 **[SIT](https://github.com/Bihrys/SIT)** | Fabric 坐下模组，适用于 1.21 |
+| 🧮 **[calculate1.21](https://github.com/Bihrys/calculate1.21)** | Bukkit 1.21 服务端高精度计算插件（用来复习算法瞎写的） |
 
-<a href="https://github.com/Bihrys/bihrys-blog">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=bihrys-blog&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=bihrys-blog&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=bihrys-blog&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="bihrys-blog" />
-  </picture>
-</a>
-<a href="https://github.com/Bihrys/mnist-neural-net-visualizer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=mnist-neural-net-visualizer&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=mnist-neural-net-visualizer&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=mnist-neural-net-visualizer&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="mnist-neural-net-visualizer" />
-  </picture>
-</a>
-
-<a href="https://github.com/Bihrys/mc-launcher">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=mc-launcher&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=mc-launcher&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=mc-launcher&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="mc-launcher" />
-  </picture>
-</a>
-<a href="https://github.com/Bihrys/uuid">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=uuid&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=uuid&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bihrys&repo=uuid&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="uuid" />
-  </picture>
-</a>
-
-</div>
+<sub>👉 更多项目见 [我的仓库列表](https://github.com/Bihrys?tab=repositories)</sub>
 
 ---
 
@@ -142,7 +126,7 @@
 
 <div align="center">
 
-**⭐ 谢谢来访！觉得有用的话欢迎给项目点个 Star ⭐**
+**⭐ 谢谢来访！觉得有意思的话欢迎给项目点个 Star ⭐**
 
 *Made with ❤️ by [Bihrys](https://github.com/Bihrys)*
 
