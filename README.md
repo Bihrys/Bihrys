@@ -69,19 +69,11 @@
 
 <div align="center">
 
+<!-- 贡献蛇形图 - 亮/暗模式自动切换，数据源：Bihrys/Bihrys 的 output 分支（GitHub Actions 每天自动生成） -->
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake.svg?v=2">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bihrys/Bihrys/output/github-contribution-grid-snake.svg?v=2" width="100%">
 </picture>
 
 </div>
