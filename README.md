@@ -19,7 +19,7 @@
 - 🐧 **Linux 折腾党** — 日常使用 Niri 等桌面环境，写过 [Niri 安装与配置笔记](https://bihrys.com/posts/niri-manual/)
 - 🖥️ **自建服务** — 博客跑在自己的香港服务器上，还有 AI 中转站
 - 🧠 **最近在玩** — 用 JavaScript 手写神经网络做 [MNIST 可视化](https://github.com/Bihrys/mnist-neural-net-visualizer)
-- ✨ 座右铭：*"不想学习"*（但还是每天都在学）
+- ✨ 座右铭：*"纸上得来终觉浅，绝知此事要躬行"*
 
 ---
 
